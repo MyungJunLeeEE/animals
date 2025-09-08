@@ -7,3 +7,5 @@ loco
 
 goegry
 rock
+
+Jintaek
